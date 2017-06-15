@@ -1,0 +1,11 @@
+welcome: "Welcome to the Calculator!"
+get_name: "Please enter your name:"
+num1: "What's the first number?"
+num2: "What's the second number?"
+inval_num: "Hmm, that doesn't seem like a valid number"
+op_prompt: "what operation would you like to perform?\n1) add$
+inval_op: "You must choose 1, 2, 3 or 4"
+zero_div_error: "CANNOT DIVIDE BY ZERO"
+again: "Do you want to perform another calculation? (y/n)"
+thanks: "Thank you for using the Calculator!"
+Willkommen zum Rechner!"
