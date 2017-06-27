@@ -8,8 +8,3 @@ def repeater(str)
     end
   end.join
 end
-
-
-puts repeater('Hello') #== "HHeelllloo"
-puts repeater("Good job!") #== "GGoooodd  jjoobb!!"
-puts repeater('') == ''

@@ -10,7 +10,7 @@ def triangle(num, flip_x = false, flip_y = false)
   strs.each { |x| puts x }
 end
 
-triangle(20, false, true) # TR
-triangle(20, true, true) # TL
-triangle(20) # BR
-triangle(20, true) # BL
+triangle(20, false, true) 
+triangle(20, true, true) 
+triangle(20) 
+triangle(20, true) 
